@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil do WagnerDev40, missão tentar ser um programador depois dos 40 Bora.. 😁
+## Bem-vindo(a) ao perfil do WagnerDeV40, missão tentar ser um programador depois dos 40 Bora.. 😁
 
  <div>
-   <a href="https://github.com/WagnerDev40">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username= WagnerDev40&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerDev40&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/WagnerDeV40">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username= WagnerDeV40&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerDeV40&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
