@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do WagnerDev40 😁
+## Bem-vindo(a) ao perfil do WagnerDev40, missão tentar ser um programador depois dos 40 Bora.. 😁
 
  <div>
    <a href="https://github.com/WagnerDev40">
@@ -16,8 +16,8 @@
  
   
 <div> 
-  <
- <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  
+ <a href="https://discord.gg/WagnerDeV4.0#0358" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
   <a href="https://https://www.linkedin.com/in/wagner-roberto-dos-santos-639113100?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjM0W9Lr0Qy%2BFT70TV1ZDGQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
